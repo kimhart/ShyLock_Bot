@@ -1,0 +1,43 @@
+body {
+	background-color: #ADC8FF;
+	font-family: 'Work Sans', sans-serif;
+}
+ 
+.promptContainer,
+.logContainer {
+	color: #000;
+	font-size: 14px;
+	background-color: #FFFFFF;
+	font-family: 'Work Sans', sans-serif;
+}
+
+h1 {
+	color: #FFFFFF;
+	font-size: 40px;
+}
+
+h2 {
+	color: #FFFFFF;
+	font-size: 28px;
+}
+
+img {
+	width: 200px;
+	height: 250px;
+	border-radius: 300px;
+	display: block;
+	margin-bottom: 20px;
+}
+
+.prompt {
+	display: block;
+	margin-top: 30px;
+}
+
+
+
+
+
+
+
+
